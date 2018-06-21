@@ -1,4 +1,4 @@
-# [Recursion](https://elewa-academy.github.io/General-Resources/cs-101/recursion-101.html)
+# [Recursion](./README.md)
 "A function that calls itself until it doesn't."
     - Mattias P Johansson
     
