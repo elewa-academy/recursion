@@ -1,4 +1,4 @@
-# [Recursion](./)
+# [Recursion](https://github.com/elewa-academy/recursion)
 "A function that calls itself until it doesn't."
     - Mattias P Johansson
     
